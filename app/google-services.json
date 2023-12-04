@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "650741815106",
+    "project_id": "ecanteen-b8f4e",
+    "storage_bucket": "ecanteen-b8f4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650741815106:android:1592963bfbba3890dddadb",
+        "android_client_info": {
+          "package_name": "com.example.ecanteen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARPaV8Vb6G0O2uH33HmZO8_JeKA8YRaxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650741815106:android:1cd9d7d0411dfb0edddadb",
+        "android_client_info": {
+          "package_name": "com.example.kelineyt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARPaV8Vb6G0O2uH33HmZO8_JeKA8YRaxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650741815106:android:d511b0b24c3e7837dddadb",
+        "android_client_info": {
+          "package_name": "com.example.productsadder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARPaV8Vb6G0O2uH33HmZO8_JeKA8YRaxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
