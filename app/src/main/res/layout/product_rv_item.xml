@@ -4,7 +4,9 @@
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:background="@color/g_card_background"
-    app:elevation="0dp"
+    android:backgroundTint="#eef4ed"
+    app:cardCornerRadius="10dp"
+    app:elevation="5dp"
 
     >
 

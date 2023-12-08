@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">650741815106</string>
+    <string name="google_api_key" translatable="false">AIzaSyARPaV8Vb6G0O2uH33HmZO8_JeKA8YRaxE</string>
+    <string name="google_app_id" translatable="false">1:650741815106:android:1cd9d7d0411dfb0edddadb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyARPaV8Vb6G0O2uH33HmZO8_JeKA8YRaxE</string>
+    <string name="google_storage_bucket" translatable="false">ecanteen-b8f4e.appspot.com</string>
+    <string name="project_id" translatable="false">ecanteen-b8f4e</string>
+</resources>
