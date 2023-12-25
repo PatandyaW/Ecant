@@ -12,8 +12,14 @@ import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.kelineyt.R
-import okhttp3.*
+import okhttp3.Call
+import okhttp3.Callback
+import okhttp3.MediaType
 import okhttp3.MediaType.Companion.toMediaType
+import okhttp3.OkHttpClient
+import okhttp3.Request
+import okhttp3.RequestBody
+import okhttp3.Response
 import org.json.JSONException
 import org.json.JSONObject
 import java.io.IOException
@@ -27,7 +33,7 @@ class SearchFragment : Fragment() {
     private lateinit var messageList: MutableList<Message>
     private lateinit var messageAdapter: MessageAdapter
     private val client = OkHttpClient()
-    private val API_KEY = "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"
+    private val API_KEY = "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"
 
     override fun onCreateView(
         inflater: LayoutInflater,
